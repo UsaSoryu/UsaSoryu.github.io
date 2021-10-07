@@ -21,18 +21,8 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.jpg);
   background-size: cover;
-  color: white;
+  color: pink;
   text-align: center;
-}
-
-.top-wrapper::before{
-	background-color: rgba(0,0,0,0.5);
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-  display: block;
 }
 
 .top-wrapper h1 {
